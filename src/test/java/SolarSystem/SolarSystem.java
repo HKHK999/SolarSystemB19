@@ -13,5 +13,11 @@ public class SolarSystem {
         xros.color = "pink";
         xros.temp = "100";
         xros.size = "9km";
+
+        //..
+        Planet2 perox = new Planet2();
+        perox.color = "white";
+        perox.size = "100000km";
+        perox.radius = "50000km";
     }
 }
